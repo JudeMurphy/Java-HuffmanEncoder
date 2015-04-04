@@ -1,0 +1,1 @@
+This is a test file to test compression through Huffman encoding. Student projects will be tested both on compressing and decompressing this file. The file, after decompression, has to come out the same as this one!!! 
